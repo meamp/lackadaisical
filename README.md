@@ -24,7 +24,7 @@ Serves: 4
 3. Take a frying pan and add cooking oil. Let it heat on medium flame. After the oil is heated, add mustard and cumin seeds and let them splutter. Add asafoetida and turmeric powder.
 4. Add curry leaves, chopped chillies, onions and potatoes and stir well. Cover the pan with a lid to let it cook till the onions turn golden brown and the potatoes are properly cooked.
 5. Add washed poha and salt and again mix it well. Cover the pan again to let it cook properly.
-6. Stir the poha once again to let it cook evenly.
+6. Stir the poha a few times to let it cook evenly.
 7. Chop  the coriander and cut the lemon.
 8. Add the chopped coriander and squeeze the lemon on the poha.
 9. Mix the poha well and serve hot.
