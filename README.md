@@ -1,6 +1,6 @@
 ## How to make *Poha*?
 *Poha* is an Indian breakfast dish made using “beaten rice” as the main ingredient and named after the same. The dish is also called as *Avalakki Uppittu* in Karnataka.  
-![Poha](/poha.jpg "Poha")
+![Poha](/images/poha.jpg "Poha")
 
 Preparation time: 10 minutes  
 Cooking time: 15 minutes  
