@@ -1,4 +1,4 @@
-## How to make *Poha*?
+## Making *Poha*
 *Poha* is an Indian breakfast dish made using “beaten rice” as the main ingredient and named after the same. The dish is also called as *Avalakki Uppittu* in Karnataka.  
 ![Poha](/images/poha.jpg "Poha")
 
